@@ -10,7 +10,6 @@ export default class _Document extends Document {
             href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap"
             rel="stylesheet"
           />
-          <title>Example Project</title>
         </Head>
         <Main />
         <NextScript />
